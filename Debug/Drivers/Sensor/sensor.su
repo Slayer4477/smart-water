@@ -1,0 +1,5 @@
+sensor.c:19:6:measureAll	8	static
+sensor.c:28:6:setHeight	8	static
+sensor.c:49:6:getSath	128	static
+sensor.c:298:6:debug	24	static
+sensor.c:323:6:delay	16	static

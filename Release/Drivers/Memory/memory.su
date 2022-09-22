@@ -1,0 +1,5 @@
+memory.c:18:6:addToLog	40	static,ignoring_inline_asm
+memory.c:37:5:readFromLog	32	static
+memory.c:50:6:getPos	0	static
+memory.c:53:6:setPos	8	static
+memory.c:58:6:defaulLog	8	static

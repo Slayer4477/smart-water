@@ -1,0 +1,7 @@
+mqtt.c:45:6:dataConnect	24	static
+mqtt.c:94:6:dataDisconnect	16	static
+mqtt.c:104:6:mqttConnect	32	static
+mqtt.c:160:6:mqttDisconnect	16	static
+mqtt.c:177:6:mqttSend	16	static
+mqtt.c:417:5:mqttSendTopics	24	static
+mqtt.c:605:6:mqttReceive	24	static

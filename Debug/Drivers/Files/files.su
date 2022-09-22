@@ -1,0 +1,8 @@
+files.c:27:6:readConfig	1056	static
+files.c:91:6:writeConfig	16	static
+files.c:185:6:readTable	32	static
+files.c:204:6:writeTable	24	static
+files.c:218:6:defaultParam	12	static
+files.c:263:6:defaultTable	4	static
+files.c:277:6:updateConfig	16	static
+files.c:281:6:updateTable	16	static

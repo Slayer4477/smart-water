@@ -1,0 +1,8 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	0	static,ignoring_inline_asm
+bluetooth.c:48:6:BTPowerOn	16	static
+bluetooth.c:59:6:BTPowerOff	8	static
+bluetooth.c:324:6:sendSpp	32	static
+bluetooth.c:525:5:updateConnectedDeviceID	80	static
+bluetooth.c:554:6:getBTRSII	8	static
+bluetooth.c:564:6:call	16	static
+bluetooth.c:65:6:bluetoothMode	144	static

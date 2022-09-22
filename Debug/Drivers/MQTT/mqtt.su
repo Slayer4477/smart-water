@@ -1,0 +1,7 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+mqtt.c:47:6:dataConnect	8	static
+mqtt.c:111:6:dataDisconnect	8	static
+mqtt.c:132:6:mqttConnect	8	static
+mqtt.c:204:6:mqttDisconnect	8	static
+mqtt.c:231:5:mqttSend	16	static
+mqtt.c:536:6:mqttReceive	632	static

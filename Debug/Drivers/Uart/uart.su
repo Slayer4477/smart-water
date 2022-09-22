@@ -1,0 +1,14 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+uart.c:49:6:HAL_UART_RxCpltCallback	16	static
+uart.c:69:6:HAL_UART_TxCpltCallback	16	static
+uart.c:73:6:HAL_GPIO_EXTI_Callback	16	static
+uart.c:76:6:Initialize	48	static
+uart.c:129:5:tx	16	static
+uart.c:142:5:rx	40	static
+uart.c:182:6:gpsWait	24	static
+uart.c:188:6:buzzOn	8	static
+uart.c:191:6:buzzOff	8	static
+uart.c:194:6:rxr	24	static
+uart.c:203:6:txr	16	static
+uart.c:227:5:bootUp	8	static
+uart.c:289:6:modemOn	8	static

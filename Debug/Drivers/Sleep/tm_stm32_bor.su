@@ -1,0 +1,2 @@
+tm_stm32_bor.c:28:17:TM_BOR_Set	40	static
+tm_stm32_bor.c:63:16:TM_BOR_Get	32	static

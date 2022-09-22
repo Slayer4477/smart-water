@@ -1,0 +1,2 @@
+clock.c:12:6:getTime	32	static
+clock.c:17:6:setTime	56	static

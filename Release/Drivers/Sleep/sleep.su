@@ -1,0 +1,2 @@
+sleep.c:16:6:getSleepParametrs	8	static
+sleep.c:23:6:mySystemClockConfig	88	static

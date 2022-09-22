@@ -1,0 +1,9 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+ftp.c:35:5:ftpList	8	static
+ftp.c:75:6:ftpSetParam	8	static
+ftp.c:99:6:ftpGet	16	static
+ftp.c:162:6:ftpDel	8	static
+ftp.c:166:5:checkFile	24	static
+ftp.c:181:6:removeBoot	8	static
+ftp.c:193:6:removeFirst	8	static
+ftp.c:214:6:addFirst	8	static

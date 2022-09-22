@@ -1,0 +1,3 @@
+gps.c:26:6:updateTime	8	static
+gps.c:61:6:gpsPowerOn	8	static
+gps.c:67:6:NMEA	32	static

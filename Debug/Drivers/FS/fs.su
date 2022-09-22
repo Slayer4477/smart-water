@@ -1,0 +1,5 @@
+fs.c:22:6:fsCreate	16	static
+fs.c:28:5:fsRead	40	static
+fs.c:57:6:fsWrite	24	static
+fs.c:74:5:fsAdd	32	static
+fs.c:95:6:fsFileSize	32	static
